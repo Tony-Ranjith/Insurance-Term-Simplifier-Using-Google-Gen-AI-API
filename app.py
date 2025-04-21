@@ -3,7 +3,7 @@ import google.generativeai as genai
 from googletrans import Translator
 
 # Configure Gemini
-genai.configure(api_key="AIzaSyB3eqU5wApVSD5sWp9vDJO4AlMS_rl8Oy4")
+genai.configure(api_key="ADD Your API Key")
 
 # Translator
 translator = Translator()
